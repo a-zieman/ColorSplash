@@ -1,5 +1,5 @@
 # ColorSplash
-Easy educational game for kids. The character is controlled by using arrows on the keyboard. User's task is to collect hearts which combination creates the color of the door.
+Easy educational game for kids. The character is controlled by arrows on the keyboard. User's task is to collect hearts which combination creates the color of the door.
 ![image](https://user-images.githubusercontent.com/104318709/166309571-e4f2c80a-cf67-498e-aa21-396cf682703b.png)
 ![image](https://user-images.githubusercontent.com/104318709/166309638-30ba6d59-c890-425d-a33f-cebf9cc6e4b0.png)
 ![image](https://user-images.githubusercontent.com/104318709/166309696-97edbdb1-b7dc-4808-b7f2-6edae5d87a38.png)
